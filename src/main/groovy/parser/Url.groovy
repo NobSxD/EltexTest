@@ -1,6 +1,5 @@
 package parser
 
-import com.sun.net.httpserver.HttpsParameters
 
 class Url {
     String getUrlContent(String urlAdress) {
